@@ -1,3 +1,3 @@
 # Vaibhav Rabber
 
-[About me](https://vrongmeal.com/about/)
+The site has been moved to [vrong.me](https://vrong.me)
